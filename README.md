@@ -47,4 +47,3 @@ GPLv3
 Author Information
 ------------------
 
-See: www.beyeler.com.br
