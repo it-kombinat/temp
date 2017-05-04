@@ -1,0 +1,9 @@
+---
+# tasks file for role-example
+- name: Running message 1
+  debug:
+    msg: "For a moment, nothing happened."
+
+- name: Running message 2
+  debug:
+   msg: "Then, after a second or so, nothing continued to happen."
